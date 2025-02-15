@@ -1,0 +1,1 @@
+# memecoin-ton-miniapp-boilerplate
